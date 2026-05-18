@@ -1,0 +1,11 @@
+scipy
+tqdm
+numpy
+joblib
+pandas
+ipython
+librosa
+TextGrid
+scikit-learn
+matplotlib
+argparse

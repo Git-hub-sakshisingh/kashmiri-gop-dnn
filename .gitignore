@@ -1,0 +1,32 @@
+# Kaldi outputs
+exp/
+mfcc/
+
+# Data
+data/
+datasets/
+*.wav
+*.flac
+*.mp3
+
+# Model files
+*.pt
+*.pth
+*.mdl
+*.ark
+*.scp
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Logs
+*.log
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+/home/sakshi/kashmiri_analysis/gop-dnn-kashmiri/0013_librispeech_v1
